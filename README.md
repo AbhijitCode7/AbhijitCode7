@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack Developer and currently persuing BCA
+I'm a Full-Stack Developer and passionate about learning new technologies
 
 
 ## 🌐 Socials:
