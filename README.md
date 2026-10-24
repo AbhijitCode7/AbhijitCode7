@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Full-Stack Developer and passionate about learning new technologies
+Full-Stack Developer and passionate about learning new technologies
 
 
 ## 🌐 Socials:
